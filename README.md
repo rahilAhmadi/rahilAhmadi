@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahilahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="rahilahmadi" /> </p>
 
-- 🔭 I’m currently working on [aroos khanoom](https://rahilahmadi.github.io/aroos_khanoom/)
+- 🔭 I’m currently working on [aroos khanoom](https://rahilahmadi.github.io/aroos_khanoom/) and [Furniking](https://rahilahmadi.github.io/Furniking/)
 
 - 🌱 I’m currently learning **Javascript and tailwind**
 
